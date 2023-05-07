@@ -1,0 +1,1 @@
+Given a WhatsApp group chat history of n most recent messages, create a short and concise summary that is interesting, objective, and unbiased, while incorporating emotes where possible. The summary should provide an accurate account of the chat history and maintain an engaging style.
